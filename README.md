@@ -16,7 +16,7 @@
 
 The following animation demonstrates the application functionality:
 
-![GIF Of Functionality](../imgs/HTMLTemplateEngine.gif)
+![GIF Of Functionality](./imgs/HTMLTemplateEngine.gif)
 
 ## Description
 As a manager
